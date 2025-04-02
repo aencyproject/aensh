@@ -7,6 +7,8 @@
 	<p>
 </div>
 
+# O AENSH ESTÁ SENDO RECONSTRUÍDO DO ZERO EM RUST.
+
 ## Sobre
 > [!NOTE]
 > Esse repositório contém o código fonte do Aensh. O projeto Aensh é um shell para iniciantes no mundo linux ou terminal, contendo utilidades para os usuários aproveitarem do sistema de uma maneira simples, moderna e funcional. Softwares e ferramentas podem ser muito pesados e exigirem muitos recursos de sua máquina, por isso existem os tão famosos apps TUI/CLI.
